@@ -6,7 +6,7 @@ I am a developer experienced in MEAN/MERN stack Technology (Lean towards Backend
 I am passionated about new technology, research and contribute to community, I have developed Android  and also Web Application. 
 
 ### Skills
-[Resume](https://whysorush.github.io/files/Rushabh_shah_resume.pdf")
+[Resume](https://whysorush.github.io/files/Rushabh_shah_resume.pdf)
 
 
 
