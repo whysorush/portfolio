@@ -1,45 +1,12 @@
 ## Welcome to My GitHub
 
-Hey! My name is [Tarun Sankhla](https://github.com/tarunsankhla/)
+Hey! My name is [Rushabh Shah](https://github.com/whysorush/)
 
-I am a 4th year student pursuing Engineering from Shah and Anchor Kutchhi Engineering College in Information Technology. I have relevant knowledge and experience in Android Application Development and also in MEAN stack Development. I am keen at learning and growing in the field of Mobile Application and Web Development. 
-
+I am a developer experienced in MEAN/MERN stack Technology (Lean towards Backend) love to dig new features and explore some logic that seems not doable obviously, I am a quick learner and a problem solver. Areas- Node.Js, React js, Angular. Js, Express. Js, MongoDB, Html, sql, Aws, etc. Up for exploring new technology.
 I am passionated about new technology, research and contribute to community, I have developed Android  and also Web Application. 
+
 ### Skills
-[Resume](https://tarunsankhla.github.io/files/TarunSankhla_Resume.pdf)
-
-```markdown
-**Technologies I have worked with:**
-
-NodeJS
-NEO 4J
-Python
-ArCore
-Mongo DB
-Visual Studio code
-Android Studio
-Firebase
-C#
-SQL SERVER
-Github
-Bootstrap
-ASP.NET MVC
-Angular2
-HTML 5
-AWS
-
-```
+[Resume](https://whysorush.github.io/files/Rushabh_shah_resume.pdf")
 
 
-### Nested Recycler View
 
-I was working on an application for multiple list view from a single list array; instead of making multiple adapter instead setting a single adapter for all Listview.  Check it on [Nested Recycler View](https://tarunsankhla.github.io/NestedRecyclerView/).
-
-### Speech Recognization
-
-I was working on an `Android Application` on speech recognization and set the text to view; this feature can be usefull in chat application. Check it on [Speech Recognisation](https://tarunsankhla.github.io/Speech-Recognization/).
-
-
-### Contact
-
-Check out my [Linkedin](https://www.linkedin.com/in/tarun-sankhla-423a1116b/) or [Email Id](binary.world.prc@gmail.com).
